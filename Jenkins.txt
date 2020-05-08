@@ -3,7 +3,7 @@ agent any
 stages{
 stage('One'){
 steps{
-echo "Pipeline in local"
+echo "Pipeline in master"
 }
 }
 }
